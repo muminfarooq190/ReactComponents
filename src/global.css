@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --regular: Poppins;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --bold-size: 24px;
+  --regular3-size: 13px;
+  --regular1-size: 17px;
+  --bold1-size: 21px;
+  --regular2-size: 15px;
+  --font-size-15xl: 34px;
+  --font-size-base: 16px;
+  --regular-size: 12px;
+  --font-size-8xl: 27px;
+  --bold2-size: 36px;
+
+  /* Colors */
+  --colors-white: #fff;
+  --colors-darker-blurple: #270276;
+  --colors-humo-200: #f5f5f9;
+  --contra-blurple: #2f0b7c;
+  --colors-humo: #26284e;
+  --contra-cielo: #d9eeff;
+  --color-black: #000;
+  --colors-humo-800: #585a79;
+  --colors-humo-300: #9797bf;
+  --colors-verde: #5eeacf;
+  --color-aquamarine: #4ff0bc;
+  --colors-dark-verde: #27cca5;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-4xs: 9px;
+
+  /* border radiuses */
+  --br-15xl: 34px;
+  --br-lg: 18px;
+  --br-33xl: 52px;
+  --br-5xs: 8px;
+  --br-base: 16px;
+  --br-mini: 15px;
+  --br-3xs: 10px;
+  --br-2xl: 21px;
+
+  /* Effects */
+  --fuzzy-drop: 0px 4px 4px rgba(0, 0, 0, 0.08);
+}

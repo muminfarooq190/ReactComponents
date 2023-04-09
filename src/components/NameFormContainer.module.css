@@ -1,0 +1,57 @@
+.firstName {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 23px;
+}
+.colorBg {
+  position: absolute;
+  top: calc(50% - 28px);
+  right: 0;
+  background-color: var(--contra-cielo);
+  width: 44px;
+  height: 56px;
+  display: none;
+}
+.selectInput {
+  position: absolute;
+  width: calc(100% - 70px);
+  top: calc(50% - 12px);
+  left: 16px;
+  line-height: 26px;
+  display: inline-block;
+  height: 22px;
+}
+.featherChevronDown {
+  position: absolute;
+  top: calc(50% - 11px);
+  right: 11px;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+.dropdownNoLabel,
+.firstNameParent {
+  position: absolute;
+  left: 0;
+  width: 283px;
+}
+.dropdownNoLabel {
+  top: 30px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-humo-200);
+  border: 1px solid var(--colors-humo-800);
+  box-sizing: border-box;
+  height: 52px;
+  overflow: hidden;
+  font-size: var(--regular1-size);
+  color: var(--colors-humo);
+}
+.firstNameParent {
+  top: 0;
+  height: 82px;
+  text-align: left;
+  font-size: var(--regular-size);
+  color: var(--color-black);
+  font-family: var(--regular);
+}
