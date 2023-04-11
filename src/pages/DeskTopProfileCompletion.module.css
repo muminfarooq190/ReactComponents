@@ -122,7 +122,7 @@
   width: 9.93%;
   bottom: 1968px;
   left: 78.47%;
-  font-size: var(--regular3-size);
+  font-size: var(--regular1-size);
   display: none;
   color: var(--colors-humo-300);
 }
@@ -143,7 +143,7 @@
   left: 77.08%;
   display: none;
   text-align: center;
-  font-size: var(--regular3-size);
+  font-size: var(--regular1-size);
   color: var(--colors-humo-800);
 }
 .cardDesktop1200,
@@ -189,7 +189,7 @@
 .labelTop {
   top: -31px;
   left: 0;
-  font-size: var(--regular-size);
+  font-size: var(--regular2-size);
   line-height: 23px;
   color: var(--color-black);
 }
@@ -239,7 +239,7 @@
 .inputGroup {
   top: 1015px;
   left: 366px;
-  font-size: var(--regular1-size);
+  font-size: var(--medium-size);
 }
 .inputGroup {
   top: 1223px;
@@ -255,7 +255,7 @@
   position: absolute;
   top: -32px;
   left: 0;
-  font-size: var(--regular-size);
+  font-size: var(--regular2-size);
   line-height: 8px;
   color: var(--color-black);
 }
@@ -271,7 +271,7 @@
   box-sizing: border-box;
   width: 283px;
   height: 50px;
-  font-size: var(--regular1-size);
+  font-size: var(--medium-size);
 }
 .input5,
 .input6 {
@@ -284,7 +284,7 @@
   position: absolute;
   top: 335px;
   left: 415px;
-  font-size: var(--bold2-size);
+  font-size: var(--bold1-size);
   line-height: 40px;
   display: inline-block;
   text-align: center;
@@ -301,7 +301,7 @@
   height: 1.03%;
   top: 17.76%;
   left: 32.5%;
-  font-size: var(--regular1-size);
+  font-size: var(--medium-size);
   text-align: center;
 }
 .checkAnyRaces {
@@ -317,7 +317,7 @@
   height: 82px;
 }
 .span {
-  font-size: 14px;
+  font-size: var(--font-size-sm);
 }
 .lastNameContainer {
   position: absolute;
@@ -362,7 +362,7 @@
   width: 283px;
   height: 52px;
   overflow: hidden;
-  font-size: var(--regular1-size);
+  font-size: var(--medium-size);
   color: var(--colors-humo);
 }
 .groupContainer,
@@ -377,7 +377,7 @@
   top: 667px;
   left: 366px;
   width: 637px;
-  font-size: var(--regular-size);
+  font-size: var(--regular2-size);
   color: var(--color-black);
 }
 .smallerButtonChild {
@@ -412,7 +412,7 @@
   bottom: 25.66%;
   left: 39.72%;
   text-align: center;
-  font-size: var(--bold1-size);
+  font-size: var(--semibold-size);
   color: var(--colors-white);
 }
 .buttonLargeOutlineIco {
@@ -483,7 +483,7 @@
   border: 1px solid var(--colors-humo-800);
   width: 283px;
   height: 50px;
-  font-size: var(--regular1-size);
+  font-size: var(--medium-size);
   color: var(--colors-humo-800);
 }
 .groupChild {
@@ -510,7 +510,7 @@
   left: 366px;
   width: 708px;
   height: 48px;
-  font-size: var(--font-size-8xl);
+  font-size: var(--semibold1-size);
 }
 .rectangleGroup {
   top: 1442px;
@@ -583,5 +583,5 @@
   text-align: left;
   font-size: var(--font-size-base);
   color: var(--colors-humo);
-  font-family: var(--regular);
+  font-family: var(--semibold);
 }

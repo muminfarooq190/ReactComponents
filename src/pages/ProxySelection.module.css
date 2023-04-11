@@ -154,7 +154,7 @@
   left: 2.57%;
 }
 .ofThe {
-  font-size: var(--regular-size);
+  font-size: var(--regular2-size);
 }
 .housingChoiceVoucherContainer1 {
   line-break: anywhere;
@@ -173,7 +173,7 @@
   font-family: var(--font-montserrat);
   display: none;
   align-items: center;
-  font-size: var(--regular2-size);
+  font-size: var(--regular-size);
 }
 .bg {
   height: 100%;
@@ -235,7 +235,7 @@
   background-color: var(--contra-cielo);
   width: 1440px;
   height: 64px;
-  font-size: var(--regular1-size);
+  font-size: var(--medium-size);
 }
 .groupIcon {
   position: absolute;
@@ -277,7 +277,7 @@
   bottom: 90.84%;
   left: 43.26%;
   text-align: right;
-  font-size: var(--regular1-size);
+  font-size: var(--medium-size);
   color: var(--colors-white);
 }
 .smallerButtonChild {
@@ -312,7 +312,7 @@
   bottom: 89.95%;
   left: 80.28%;
   text-align: center;
-  font-size: var(--bold1-size);
+  font-size: var(--semibold-size);
   color: var(--colors-darker-blurple);
 }
 .goBack,
@@ -324,7 +324,7 @@
   width: 9.93%;
   bottom: 820px;
   left: 78.47%;
-  font-size: var(--regular3-size);
+  font-size: var(--regular1-size);
   display: none;
   color: var(--colors-humo-300);
 }
@@ -345,7 +345,7 @@
   left: 77.08%;
   display: none;
   text-align: center;
-  font-size: var(--regular3-size);
+  font-size: var(--regular1-size);
   color: var(--colors-humo-800);
 }
 .cardDesktop1200,
@@ -389,7 +389,7 @@
 .personalInformation {
   top: 349px;
   left: 415px;
-  font-size: var(--bold2-size);
+  font-size: var(--bold1-size);
   line-height: 40px;
   text-align: center;
   width: 610px;
@@ -468,7 +468,7 @@
   bottom: 48.41%;
   left: 25.42%;
   text-align: center;
-  font-size: var(--bold1-size);
+  font-size: var(--semibold-size);
   color: var(--colors-white);
 }
 .imAFamily {
@@ -542,5 +542,5 @@
   text-align: left;
   font-size: var(--font-size-base);
   color: var(--colors-humo);
-  font-family: var(--regular);
+  font-family: var(--semibold);
 }

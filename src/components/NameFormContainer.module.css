@@ -44,14 +44,14 @@
   box-sizing: border-box;
   height: 52px;
   overflow: hidden;
-  font-size: var(--regular1-size);
+  font-size: var(--medium-size);
   color: var(--colors-humo);
 }
 .firstNameParent {
   top: 0;
   height: 82px;
   text-align: left;
-  font-size: var(--regular-size);
+  font-size: var(--regular2-size);
   color: var(--color-black);
-  font-family: var(--regular);
+  font-family: var(--semibold);
 }

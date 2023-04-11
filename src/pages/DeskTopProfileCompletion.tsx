@@ -44,7 +44,7 @@ const DeskTopProfileCompletion: FunctionComponent = () => {
       <img
         className={styles.deskTopProfileCompletionInner}
         alt=""
-        src="/vector-3.svg"
+        src="/vector-31.svg"
       />
       <div className={styles.deskTopProfileCompletion1} />
       <img className={styles.groupIcon} alt="" src="/group-37402.svg" />
@@ -217,7 +217,7 @@ const DeskTopProfileCompletion: FunctionComponent = () => {
       <img
         className={styles.buttonLargeOutlineIco}
         alt=""
-        src="/button--large--outline--icononly.svg"
+        src="/button--large--outline--icononly1.svg"
       />
       <div className={styles.goBackTo}>Go Back To Dashboard</div>
       <div className={styles.rectangleDiv} />
@@ -271,8 +271,11 @@ const DeskTopProfileCompletion: FunctionComponent = () => {
         <div className={styles.checkBoxtruefalsefalsefal} />
         <div className={styles.americanIndianOr}>None of these</div>
       </div>
-      <Header productIds="/client-logo.svg" />
-      <HelpContainer dimensions="/group.svg" dimensionsId="/client-logo1.svg" />
+      <Header productIds="/client-logo2.svg" />
+      <HelpContainer
+        dimensions="/group1.svg"
+        dimensionsId="/client-logo11.svg"
+      />
     </div>
   );
 };

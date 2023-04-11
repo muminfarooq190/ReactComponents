@@ -14,12 +14,12 @@ const Header: FunctionComponent<HeaderType> = ({ productIds }) => {
           <div className={styles.help}>Help</div>
           <div className={styles.logIn}>Log In</div>
           <div className={styles.enEspaol}>En Español</div>
-          <img className={styles.fileText3Icon} alt="" src="/filetext-3.svg" />
-          <img className={styles.fileText4Icon} alt="" src="/filetext-4.svg" />
+          <img className={styles.fileText3Icon} alt="" src="/filetext-31.svg" />
+          <img className={styles.fileText4Icon} alt="" src="/filetext-42.svg" />
           <img
             className={styles.helpCircle3Icon}
             alt=""
-            src="/helpcircle-3.svg"
+            src="/helpcircle-31.svg"
           />
           <div className={styles.housingChoiceVoucherContainer}>
             <span className={styles.housingChoiceVoucherContainer1}>

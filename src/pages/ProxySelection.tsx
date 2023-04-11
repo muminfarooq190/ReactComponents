@@ -39,19 +39,19 @@ const ProxySelection: FunctionComponent = () => {
       />
       <div className={styles.proxySelectionChild} />
       <div className={styles.proxySelectionItem} />
-      <img className={styles.proxySelectionInner} alt="" src="/vector-3.svg" />
+      <img className={styles.proxySelectionInner} alt="" src="/vector-31.svg" />
       <div className={styles.deskTopProfileCompletion} />
       <div className={styles.component4}>
         <div className={styles.component4Child} />
         <div className={styles.help}>Help</div>
         <div className={styles.logIn}>Log In</div>
         <div className={styles.enEspaol}>En Español</div>
-        <img className={styles.fileText3Icon} alt="" src="/filetext-3.svg" />
-        <img className={styles.fileText4Icon} alt="" src="/filetext-4.svg" />
+        <img className={styles.fileText3Icon} alt="" src="/filetext-31.svg" />
+        <img className={styles.fileText4Icon} alt="" src="/filetext-42.svg" />
         <img
           className={styles.helpCircle3Icon}
           alt=""
-          src="/helpcircle-3.svg"
+          src="/helpcircle-31.svg"
         />
         <div className={styles.housingChoiceVoucherContainer}>
           <span className={styles.housingChoiceVoucherContainer1}>
@@ -95,7 +95,7 @@ const ProxySelection: FunctionComponent = () => {
       <img
         className={styles.buttonLargeOutlineIco}
         alt=""
-        src="/button--large--outline--icononly.svg"
+        src="/button--large--outline--icononly1.svg"
       />
       <div className={styles.goBack1}>{`Go Back `}</div>
       <div className={styles.rectangleDiv} />
@@ -119,8 +119,8 @@ const ProxySelection: FunctionComponent = () => {
         </div>
       </div>
       <HelpContainer
-        dimensions="/group1.svg"
-        dimensionsId="/client-logo2.svg"
+        dimensions="/group11.svg"
+        dimensionsId="/client-logo21.svg"
         propTop="1111px"
       />
       <Header productIds="/client-logo3.svg" />
