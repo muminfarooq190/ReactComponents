@@ -6,35 +6,35 @@ body {
 }
 :root {
   /* fonts */
-  --semibold: Poppins;
+  --regular: Poppins;
   --font-montserrat: Montserrat;
 
   /* font sizes */
-  --medium-size: 17px;
-  --semibold-size: 21px;
-  --font-size-sm: 14px;
   --font-size-15xl: 34px;
   --font-size-base: 16px;
   --regular-size: 15px;
   --regular2-size: 12px;
+  --medium-size: 17px;
   --bold-size: 24px;
   --regular1-size: 13px;
+  --bold1-size: 21px;
+  --bold2-size: 36px;
+  --font-size-sm: 14px;
   --font-size-xl: 20px;
-  --semibold1-size: 27px;
-  --bold1-size: 36px;
+  --semibold-size: 27px;
 
   /* Colors */
+  --colors-humo: #26284e;
   --colors-white: #fff;
   --contra-blurple: #2f0b7c;
-  --colors-humo: #26284e;
   --colors-darker-blurple: #270276;
   --contra-cielo: #d9eeff;
   --colors-humo-200: #f5f5f9;
+  --colors-humo-800: #585a79;
   --colors-humo-300: #9797bf;
   --colors-verde: #5eeacf;
-  --color-black: #000;
-  --colors-humo-800: #585a79;
   --color-aquamarine: #4ff0bc;
+  --color-black: #000;
   --colors-dark-verde: #27cca5;
 
   /* Paddings */
@@ -42,14 +42,14 @@ body {
   --padding-4xs: 9px;
 
   /* border radiuses */
-  --br-2xl: 21px;
   --br-lg: 18px;
   --br-33xl: 52px;
   --br-15xl: 34px;
+  --br-2xl: 21px;
+  --br-3xs: 10px;
   --br-5xs: 8px;
   --br-base: 16px;
   --br-mini: 15px;
-  --br-3xs: 10px;
 
   /* Effects */
   --fuzzy-drop: 0px 4px 4px rgba(0, 0, 0, 0.08);

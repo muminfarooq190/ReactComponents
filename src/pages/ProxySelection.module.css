@@ -312,7 +312,7 @@
   bottom: 89.95%;
   left: 80.28%;
   text-align: center;
-  font-size: var(--semibold-size);
+  font-size: var(--bold1-size);
   color: var(--colors-darker-blurple);
 }
 .goBack,
@@ -389,7 +389,7 @@
 .personalInformation {
   top: 349px;
   left: 415px;
-  font-size: var(--bold1-size);
+  font-size: var(--bold2-size);
   line-height: 40px;
   text-align: center;
   width: 610px;
@@ -468,7 +468,7 @@
   bottom: 48.41%;
   left: 25.42%;
   text-align: center;
-  font-size: var(--semibold-size);
+  font-size: var(--bold1-size);
   color: var(--colors-white);
 }
 .imAFamily {
@@ -542,5 +542,5 @@
   text-align: left;
   font-size: var(--font-size-base);
   color: var(--colors-humo);
-  font-family: var(--semibold);
+  font-family: var(--regular);
 }

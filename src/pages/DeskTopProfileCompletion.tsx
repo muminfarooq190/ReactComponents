@@ -3,9 +3,9 @@ import AccountContainer from "../components/AccountContainer";
 import NameFormContainer from "../components/NameFormContainer";
 import Header from "../components/Header";
 import HelpContainer from "../components/HelpContainer";
-import styles from "./DeskTopProfileCompletion.module.css";
+import styles from "./DeskTopProfileCompletion1.module.css";
 
-const DeskTopProfileCompletion: FunctionComponent = () => {
+const DeskTopProfileCompletion1: FunctionComponent = () => {
   return (
     <div className={styles.deskTopProfileCompletion}>
       <img
@@ -271,13 +271,13 @@ const DeskTopProfileCompletion: FunctionComponent = () => {
         <div className={styles.checkBoxtruefalsefalsefal} />
         <div className={styles.americanIndianOr}>None of these</div>
       </div>
-      <Header productIds="/client-logo2.svg" />
+      <Header productIds="/client-logo21.svg" />
       <HelpContainer
-        dimensions="/group1.svg"
+        dimensions="/group11.svg"
         dimensionsId="/client-logo11.svg"
       />
     </div>
   );
 };
 
-export default DeskTopProfileCompletion;
+export default DeskTopProfileCompletion1;

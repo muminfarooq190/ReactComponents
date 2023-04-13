@@ -69,7 +69,7 @@
   width: 15.07%;
   top: 20.95%;
   left: 53.89%;
-  font-size: var(--semibold-size);
+  font-size: var(--bold1-size);
   line-height: 28px;
   display: inline-block;
 }
@@ -117,7 +117,7 @@
   width: 15.07%;
   top: 21.38%;
   left: 76.94%;
-  font-size: var(--semibold-size);
+  font-size: var(--bold1-size);
   line-height: 28px;
   display: inline-block;
 }
@@ -243,5 +243,5 @@
   text-align: left;
   font-size: var(--regular-size);
   color: var(--colors-white);
-  font-family: var(--semibold);
+  font-family: var(--regular);
 }

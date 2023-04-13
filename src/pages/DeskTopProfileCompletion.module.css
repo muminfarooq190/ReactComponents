@@ -284,7 +284,7 @@
   position: absolute;
   top: 335px;
   left: 415px;
-  font-size: var(--bold1-size);
+  font-size: var(--bold2-size);
   line-height: 40px;
   display: inline-block;
   text-align: center;
@@ -412,7 +412,7 @@
   bottom: 25.66%;
   left: 39.72%;
   text-align: center;
-  font-size: var(--semibold-size);
+  font-size: var(--bold1-size);
   color: var(--colors-white);
 }
 .buttonLargeOutlineIco {
@@ -510,7 +510,7 @@
   left: 366px;
   width: 708px;
   height: 48px;
-  font-size: var(--semibold1-size);
+  font-size: var(--semibold-size);
 }
 .rectangleGroup {
   top: 1442px;
@@ -583,5 +583,5 @@
   text-align: left;
   font-size: var(--font-size-base);
   color: var(--colors-humo);
-  font-family: var(--semibold);
+  font-family: var(--regular);
 }

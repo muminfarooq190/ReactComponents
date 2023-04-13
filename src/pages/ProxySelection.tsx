@@ -119,8 +119,8 @@ const ProxySelection: FunctionComponent = () => {
         </div>
       </div>
       <HelpContainer
-        dimensions="/group11.svg"
-        dimensionsId="/client-logo21.svg"
+        dimensions="/group111.svg"
+        dimensionsId="/client-logo211.svg"
         propTop="1111px"
       />
       <Header productIds="/client-logo3.svg" />

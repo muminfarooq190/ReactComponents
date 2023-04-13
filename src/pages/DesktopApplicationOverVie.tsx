@@ -133,7 +133,7 @@ const DesktopApplicationOverVie: FunctionComponent = () => {
       <div className={styles.footer}>
         <div className={styles.footerDesktop}>
           <div className={styles.footerDesktopChild} />
-          <img className={styles.groupIcon1} alt="" src="/group.svg" />
+          <img className={styles.groupIcon1} alt="" src="/group1.svg" />
           <div className={styles.footerDesktopItem} />
           <div className={styles.mainWebsiteContainer}>
             <p className={styles.mainWebsite}>{`Main Website  >`}</p>
@@ -187,7 +187,7 @@ const DesktopApplicationOverVie: FunctionComponent = () => {
           <img
             className={styles.clientLogoIcon}
             alt=""
-            src="/client-logo.svg"
+            src="/client-logo2.svg"
           />
         </div>
       </div>

@@ -4,8 +4,9 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import DesktopApplicationOverVie from "./pages/DesktopApplicationOverVie";
 import DeskTopProfileCompletion from "./pages/DeskTopProfileCompletion";
+import DesktopApplicationOverVie from "./pages/DesktopApplicationOverVie";
+import DeskTopProfileCompletion1 from "./pages/DeskTopProfileCompletion1";
 import ProxySelection from "./pages/ProxySelection";
 import { useEffect } from "react";
 
@@ -26,6 +27,10 @@ function App() {
 
     switch (pathname) {
       case "/":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/desktop-application-over-view":
         title = "";
         metaDescription = "";
         break;
@@ -55,10 +60,14 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<DesktopApplicationOverVie />} />
+      <Route path="/" element={<DeskTopProfileCompletion />} />
+      <Route
+        path="/desktop-application-over-view"
+        element={<DesktopApplicationOverVie />}
+      />
       <Route
         path="/desk-top-profile-completion"
-        element={<DeskTopProfileCompletion />}
+        element={<DeskTopProfileCompletion1 />}
       />
       <Route path="/proxy-selection" element={<ProxySelection />} />
     </Routes>

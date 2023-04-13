@@ -70,7 +70,7 @@
   bottom: 0;
   left: 69.31%;
   text-align: center;
-  font-size: var(--semibold-size);
+  font-size: var(--bold1-size);
   color: var(--colors-darker-blurple);
 }
 .groupParent {
@@ -83,5 +83,5 @@
   text-align: right;
   font-size: var(--medium-size);
   color: var(--colors-white);
-  font-family: var(--semibold);
+  font-family: var(--regular);
 }
